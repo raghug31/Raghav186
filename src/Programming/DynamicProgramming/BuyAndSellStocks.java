@@ -1,4 +1,4 @@
-package Programming;
+package Programming.DynamicProgramming;
 
 public class BuyAndSellStocks {
 
